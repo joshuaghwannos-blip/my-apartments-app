@@ -1,2 +1,2 @@
-# my-apartments-app
+#
 apartments 
